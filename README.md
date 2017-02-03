@@ -1,5 +1,5 @@
 # Spring 2017
-# Project 1: What did the presidents say at their inauguation?
+# Project 1: Prediting Donald Trump Inauguration Lyrics Using Big Data
 
 ![image](figs/title.jpg)
 
