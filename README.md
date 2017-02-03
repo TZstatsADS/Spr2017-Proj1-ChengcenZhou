@@ -12,7 +12,7 @@ Term: Spring 2017
 + This project is conducted by Chengcen Zhou
 + Project summary: Here I conduct a brief study of what did the president say at their inauguation. The data collects 59 Inaugurals. I focus on using past presidents' speeches to predict Donald Trump's Inaugural.
 
-[See R notebook](file:///Users/Connie/Desktop/Spri2017-Proj1-Chengcen_Zhou.html)
+[See Report](file:///Users/Connie/Desktop/Spri2017-Proj1-Chengcen_Zhou.html)
 
 [See code](https://github.com/TZstatsADS/Spr2017-Proj1-ChengcenZhou/blob/master/Spri2017-Proj1-Chengcen%20Zhou.Rmd)
 
