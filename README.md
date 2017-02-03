@@ -1,7 +1,7 @@
 # Spring 2017
 # Project 1: Prediting Donald Trump Inauguration Lyrics Using Big Data
 
-![image](figs/title.jpg)
+![image](figs/donald-trump-inauguration-performer.jpg)
 
 ### [Project Description](doc/)
 This is the first and only *individual* (as opposed to *team*) this semester. 
