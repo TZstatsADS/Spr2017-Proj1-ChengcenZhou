@@ -24,7 +24,9 @@ proj/
 ├── data/
 ├── doc/
 ├── figs/
-└── output/
+├── output/
+├──Spri2017-Proj1-Chengcen Zhou/
+└── Spri2017-Proj1-Chengcen Zhou/
 ```
 
 Please see each subfolder for a README file.
