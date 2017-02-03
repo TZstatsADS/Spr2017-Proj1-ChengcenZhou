@@ -120,7 +120,8 @@ wordcloud(tdm.repub1$term, tdm.repub1$`sum(count)`,
 
 
 #Shiny wordcloud
-#As we know that the Democrat is based on community and social responsibility. the Republican based on individual rights and justice. Obama focused on "journey", "Creed", "Self-evident", "complete". I found it interesting to study all president's high frequency word in the speech. 
+\
+As we know that the Democrat is based on community and social responsibility. the Republican based on individual rights and justice. Obama focused on "journey", "Creed", "Self-evident", "complete". I found it interesting to study all president's high frequency word in the speech. \
 
 
 ```{r, warning=FALSE}
@@ -184,7 +185,8 @@ shinyApp(
 ```
 #Shiny-Sentiment
 
-#We could mainly divide the sentiment into several parts including anger anticipation, disgust, fear, joy, negative, positive, surprise, trust.
+\
+We could mainly divide the sentiment into several parts including anger anticipation, disgust, fear, joy, negative, positive, surprise, trust.\
 
 ```{r,  message=FALSE, warning=FALSE}
 library(shiny)
@@ -245,6 +247,8 @@ shinyApp(
 )
 ```
 
-#Most sentiments are positive. As you can see the blue color indicates positive, it usually appears at the last parts of the speech. When we predict Trump's speech for this year, we could find the core idea of Republicain. And then find the pattern of how presidents give speech. One interesting thing is, an outstanding elocutionist unintentionally prefer to use short sentences instead of long statements.  That's to say, Trump might use a lot short sentences. It makes people feel they are talking to the speaker not listening to a dull speech. 
+\
+Most sentiments are positive. As you can see the blue color indicates positive, it usually appears at the last parts of the speech. When we predict Trump's speech for this year, we could find the core idea of Republicain. And then find the pattern of how presidents give speech. One interesting thing is, an outstanding elocutionist unintentionally prefer to use short sentences instead of long statements.  That's to say, Trump might use a lot short sentences. It makes people feel they are talking to the speaker not listening to a dull speech. \
 
-#The thing is when comparing with Trump's inaugural, he did mentioned what big data told us, however, the topics are just regular part. From the sentiment test, we can see that Trump’s words indicate more anger and fear than other presidents did in the past. For instance, he started the speech with fear “For too long, a small group in our nation's capital has reaped the rewards of government while the people have borne the cost. Washington flourished, but the people did not share in its wealth. ” Big data told us regular parts of the speech. It can’t exactly predict the whole inaugural. Artificial intelligence can’t represent real human beings. At least, we made some progress on it. There are still many ways that we could continue improving big data methods in the future 
+\
+The thing is when comparing with Trump's inaugural, he did mentioned what big data told us, however, the topics are just regular part. From the sentiment test, we can see that Trump’s words indicate more anger and fear than other presidents did in the past. For instance, he started the speech with fear “For too long, a small group in our nation's capital has reaped the rewards of government while the people have borne the cost. Washington flourished, but the people did not share in its wealth. ” Big data told us regular parts of the speech. It can’t exactly predict the whole inaugural. Artificial intelligence can’t represent real human beings. At least, we made some progress on it. There are still many ways that we could continue improving big data methods in the future.\ 
