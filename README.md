@@ -1,5 +1,5 @@
 # Spring 2017
-# Project 1: Prediting Donald Trump Inauguration Lyrics Using Big Data
+# Project 1: Prediting Donald Trump Inauguration Lyrics Using Big Data and R Shiny
 
 ![image](figs/donald-trump-inauguration-performer.jpg)
 
